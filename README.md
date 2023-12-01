@@ -45,6 +45,7 @@ Pika 1.0’s launch coincides with significant movements in the industry. Major 
 As Pika 1.0 ventures into the AI video arena, it stands as a formidable contender, ready to redefine video production with its powerful AI capabilities.
 
 https://twitter.com/i/status/1729510078959497562
+https://medium.com/@liaomk/mystery-behind-a-share-market-surge-the-story-of-xinya-tech-and-pika-2c8ba205dfa7
 
 
 # Website: https://pika.art
